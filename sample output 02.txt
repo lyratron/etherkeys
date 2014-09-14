@@ -1,0 +1,88 @@
+pietros-air:etherKeys pietro$ gcc -g -Wall ek02.c -lm -o ek
+pietros-air:etherKeys pietro$ ./ek
+
+************* etherKeys ************
+*  (c) 2014 Peter Alaric DeSimone  *
+* Lyratron, LLC ~ www.lyratron.com *
+************************************
+
+
+WARNING: This is a cryptographically insecure version of EK,
+intended for demo purposes only.  Do not use to secure sensitive data!
+
+passphrase: hello
+you entered: hello
+
+computing hash...
+0 
+16847 
+2754 
+1559 
+16760 
+hash: 47328 
+
+0: 722dB6spWN	1: Pf8ipnOY98	2: 2wE1CYIE02	3: qbCC48158m	4: PHF8M522Dv
+5: Lfz8uNQ0dk	6: 1r6woE4eKZ	7: j9eD8IS0Ij	8: 274B9ZA0i0	9: as1ba99vQ9
+10: OsCl141Da9	11: 2F2ymGb47t	12: N9m1Ml5UPq	13: R42cShN269	14: 1UBdzZhq3W
+15: 7YKPUq21mI	16: p3hG7KXN27	17: mRrGXQdbKz	18: fUd8L1b65M	19: 9oNsXC8a34
+20: 08l31iysf3	21: h8T6IPzg1I	22: 3640xYqFQ2	23: 6Ons47Ub3P	24: 0Khbw6v95f
+25: YwVDirM1GP	26: n7DNrJdCZ2	27: 4BLb0VhMrT	28: 04P64sOVS8	29: e09m8MZj92
+30: g1jS599F84	31: 8CR0GWkHLX	32: JNF92jy4SW	33: 5a4HD68gm1	34: ey1QL7xleg
+35: 7hmP2s9m0q	36: SNlv0XO55n	37: zEG661H82E	38: 3M0K29R5n8	39: 83F70Ko65o
+40: 3Rb7095290	41: 46i9b88p3D	42: LrcSL9bD07	43: Jh14OUiJi2	44: b32asm0hQF
+45: 8Zk8FfiA05	46: 47H851mBa5	47: IEdEW7d34r	48: 5E9D1xyX79	49: A9wk0H69L3
+50: x44YQ30J6g	51: F5BX370eYb	52: 8P6G1I9CN3	53: 1F3H9YykW9	54: 8jSQ13lygk
+55: IYzX6eQ62K	56: UGU5GuYnDq	57: 08n351Y0gW	58: kNB6414hhP	59: iCWNM5dRoM
+60: lO0S4AbqG7	61: 5ipscAw9I8	62: 3y7wKK3i0H	63: PedI4Wgl34	64: 1LM56PlLji
+65: BL8v75K6wQ	66: 54hddvHV2X	67: CU5VTIH3Vz	68: s4uepBw33a	69: A13Q0jfP6g
+70: sp80bra1y0	71: 74b8B4uLs8	72: a3sNjRP369	73: O2vEngueKs	74: g2FONlJhB0
+75: Xzcl31HGyo	76: 7844M8P5Ze	77: c9s1P0CoDb	78: v695E1scLo	79: t5zNRV9ob1
+80: sIHzMbl4kh	81: WE16JILNY0	82: YKKjCsOSb7	83: DyIpHRPxU9	84: MgI9eQlL6p
+85: 4ESDpf3Dv7	86: h0b3IRDw2V	87: iwnPAOrRKl	88: 9081f5bc85	89: 75KNr0Ybp1
+90: 9f5b792C8n	91: 4QE3451rbL	92: OMWQtQpa79	93: HQozqNB85a	94: RfRT690MCF
+95: 9EhGSHeZv7	96: aON5U9UIl4	97: e0l6Q7H10r	98: I3a9VvANH7	99: Y44eEkK81j
+
+pietros-air:etherKeys pietro$ ./ek
+
+************* etherKeys ************
+*  (c) 2014 Peter Alaric DeSimone  *
+* Lyratron, LLC ~ www.lyratron.com *
+************************************
+
+
+WARNING: This is a cryptographically insecure version of EK,
+intended for demo purposes only.  Do not use to secure sensitive data!
+
+passphrase: hella
+you entered: hella
+
+computing hash...
+0 
+16847 
+2754 
+1559 
+16760 
+hash: 47918 
+
+0: h52JWVc06M	1: cijmVfKUD6	2: 9HUnVh8o70	3: 3X45RXmxVk	4: dlsu8q1jrQ
+5: BZq506wo4b	6: D0pMpFCtR2	7: L3BGyV5fSd	8: DTi7Ps0Y4J	9: 5D2jq65r5r
+10: Mx94dnUuJ2	11: 2JjA7v96An	12: eZ1GU0Kovn	13: YW5Qty8k50	14: O8F4X6x6i7
+15: Z4nN5wZ39e	16: S4gr9Y8i07	17: v748T23MzN	18: 449o784RcE	19: J9l1Ij7q6F
+20: 7vQHW7UO8E	21: TYAk9BL9g9	22: 1YixlgVwbd	23: OL93Pd2arj	24: 2GDA2oYa5I
+25: TCihdV71Eu	26: 9huhOo5r0a	27: osG51808cJ	28: 7DIDCEQ29U	29: aYaQo3V3J8
+30: Yc16A0Hy2V	31: DGYv69iALK	32: w3IZg1V5V7	33: j2LHyNA0x9	34: C44lJKQeBY
+35: 91YcyMTNa3	36: 08Q4b2S12j	37: a5ELfucytZ	38: 2D9vt3M0Kh	39: 0D97ylB2Io
+40: hO5YMZ5Yx9	41: gtM3HuV0cp	42: 1V569rOk8o	43: 3927gD0xEt	44: dP3SEf2k4m
+45: 9dA3U6X26T	46: MVex5reB4g	47: KFgrVE6avz	48: 1Rioi4tf4g	49: 2g517h7fiv
+50: F223242DXC	51: 6RA1G9WAe7	52: iegsAuZ0b0	53: 917pic2nEj	54: 4684wZvlAh
+55: WjsOqba491	56: GSKvYCc1WG	57: k6qmj4o8o5	58: OYEKus86lD	59: zVPinN5kjd
+60: P4Y4GZ4I2l	61: 7YnB2SdTR4	62: ZH36A0hZ6k	63: X1Rdd4bK1V	64: tDtGmNN29g
+65: 0ghO1Yw7HT	66: 41Q6yn83a8	67: YCN6Gd6310	68: t53EpA9fK5	69: 1sb8ETzMa7
+70: fJadpoh1Va	71: YWC6tBCmLW	72: dMhbq4WMWE	73: l70hg894xc	74: 2b0b2U7rVj
+75: i4CD9JjFLd	76: 70LT58M4P3	77: Z578p7ytOm	78: 42Z547tU3m	79: zXTEm4B9Q2
+80: cUV0Xwnz0I	81: NEvWvQE1Fu	82: nqgkT5QkHY	83: nu62o4S638	84: d2LSb1fxP5
+85: c5n8g35zK6	86: t5MGXi5rUd	87: pKo70juISs	88: uCCQegEa2n	89: NVmgpLYh8k
+90: 8G6kHGpU7h	91: 1Ah7cS5736	92: 2Fb6VE9vyt	93: e1H1AV5O2s	94: gAX1FrskT3
+95: qOd2X6364R	96: k7T9OHJrKI	97: 2ULF82sgEn	98: 6cmk920Cmu	99: 19n7nl01bH
+
+pietros-air:etherKeys pietro$ 
